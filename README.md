@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Muhammad Rizal Fauzi 👋
+
+![Muhammad Rizal Fauzi](img/github.png)
 
 <!--
 **MRizalfauzi23/MRizalfauzi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a website project using Laravel at CV. Javatech Automation
+- 🌱 I’m currently learning **Laravel** Framework
